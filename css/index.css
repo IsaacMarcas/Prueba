@@ -1,0 +1,18 @@
+.logo img{
+    height: 70px;
+    width: 70px;
+}
+ul{
+    display: flex;
+    display: inline-block;
+}
+ul li{
+    padding-left: 40px;
+    list-style: none;
+    display: inline-flex;
+    align-items: end;
+    padding: 10px 40px;
+}
+.carousel-item img{
+    height: 800px;
+}
